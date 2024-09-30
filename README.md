@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Dinesh Singh Saini,</h1>
-<h3 align="center">  a CSE engineer passionate about coding. Proficient in C, C++, CSS, HTML, Javascript, DSA, and SQL. I've built a Restaurant Billing System in C and a Event Booking Management System in C++ using DSA. Let's connect and code!</h3>
+<h3 align="center">  a CSE engineer passionate about coding. Proficient in C, C++, Kotlin, AWS, Python, Bash, Javascript, DSA, and SQL.Let's connect and code!</h3>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 - 🌱 I’m currently learning **Kotlin**
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dineshkumar623092@gmail.com**
 
-- ⚡ Fun fact **I think i am crazy and funny**
+- ⚡ Fun fact **I think I am crazy and funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
