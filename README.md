@@ -3,7 +3,7 @@
 a CSE engineer passionate about coding. Proficient in C, C++, Kotlin, AWS, Python, Bash, Javascript, DSA, and SQL.Let's connect and code!
 <br><br>
 🌱 I’m currently learning Kotlin<br><br>💬 Ask me about DSA, C, AWS, Kotlin<br><br>📫 
-How to reach me: https://www.dineshsingh.me ,
+How to reach me: https://dineshsingh.me ,
 dineshkumar623092@gmail.com
 <br><br>⚡ Fun fact I think I am crazy and funny
 
